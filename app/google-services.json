@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "681179801343",
+    "project_id": "klepet-app",
+    "storage_bucket": "klepet-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681179801343:android:a99f848156a32d64ee0eca",
+        "android_client_info": {
+          "package_name": "com.example.klepet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681179801343-lib778igmjctidtk9rnane2ola9dkq9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.klepet",
+            "certificate_hash": "6a80f87a7a35467b9ca317f535505fb5dbda3f03"
+          }
+        },
+        {
+          "client_id": "681179801343-lbrss2ik8b4rantba1vrdqlf02ouilac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBleVo6Bzbn12xiZP9b-smxRbdkmYZBL40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681179801343-lbrss2ik8b4rantba1vrdqlf02ouilac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
